@@ -9,9 +9,8 @@ In TileVania, the player starts with 3 lives (hearts) and must collect coins whi
 When the player comes into contact with an enemy, they lose one life and restart the current level. If all 3 lives are lost, the player is sent back to Level 0.
 ## Screenshots
 
-<img width="2560" height="1440" alt="Image" src="https://github.com/user-attachments/assets/46944410-6591-4bdb-bd77-ec755489c06e" />
-<img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/d8c851dd-1d2f-4320-adbc-057640512204" />
-<img width="2378" height="1332" alt="image" src="https://github.com/user-attachments/assets/741b7ab3-2feb-41f0-9721-7e6205c74548" />
+<img width="2200" height="1208" alt="image" src="https://github.com/user-attachments/assets/7ed0148b-5e1a-458f-b5b7-eb9f7b92b575" />
+<img width="2378" height="1332" alt="image" src="https://github.com/user-attachments/assets/6580b426-8af0-4479-a0f6-5e1cc7a75190" />
 
 ## Features
 
